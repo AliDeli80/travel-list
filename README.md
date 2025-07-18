@@ -29,6 +29,8 @@ npm run dev
 ```
 
 ## 📁 Project Structure
+
+```plaintext
 travel-list/
 ├── public/
 ├── src/
@@ -44,6 +46,7 @@ travel-list/
 ├── index.html
 ├── package.json
 └── README.md
+```
 
 ## 🙌 Contributing
 Pull requests are welcome! If you have suggestions or improvements, feel free to fork this repo and submit a PR.
