@@ -11,10 +11,6 @@
 - 📊 See stats on how much you've packed
 - ♻️ Clear the entire list to start fresh
 
-## 🌐 Live Demo
-
-[Check it out on GitHub Pages](https://alideli80.github.io/travel-list)
-
 ## 🛠 Tech Stack
 
 - **React** (with hooks and component-based architecture)
