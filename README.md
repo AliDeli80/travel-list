@@ -25,7 +25,7 @@ To run this project locally:
 git clone https://github.com/AliDeli80/travel-list.git
 cd travel-list
 npm install
-npm run dev
+npm start
 ```
 
 ## 📁 Project Structure
