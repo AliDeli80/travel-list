@@ -54,5 +54,5 @@ Pull requests are welcome! If you have suggestions or improvements, feel free to
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
 
-## 👤 Author
-GitHub: AliDeli80
+## 👨‍💻 Author
+AliDeli80
