@@ -55,4 +55,4 @@ Pull requests are welcome! If you have suggestions or improvements, feel free to
 This project is licensed under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
-AliDeli80
+Ali Delgoshaei
