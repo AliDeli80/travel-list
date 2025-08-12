@@ -48,6 +48,11 @@ travel-list/
 └── README.md
 ```
 
+## 📸 Screenshots
+
+<img width="1900" height="766" alt="localhost_3000_" src="https://github.com/user-attachments/assets/19f9f728-093b-44c5-9964-4bb0f582223c" />
+
+
 ## 🙌 Contributing
 Pull requests are welcome! If you have suggestions or improvements, feel free to fork this repo and submit a PR.
 
